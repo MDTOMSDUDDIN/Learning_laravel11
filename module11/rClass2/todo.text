@@ -1,0 +1,8 @@
+Laravel learning starting 10/11 version 
+1.command create project -
+    1.version 11
+    composer create-project laravel/laravel example-app
+
+    2. version 10
+    composer create-project laravel/laravel^10 example-app
+
